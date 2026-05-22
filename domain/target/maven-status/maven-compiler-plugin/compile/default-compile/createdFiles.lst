@@ -1,0 +1,4 @@
+com\festivos\domain\CalendarioRepository.class
+com\festivos\domain\Tipo.class
+com\festivos\domain\Calendario.class
+com\festivos\domain\TipoRepository.class
